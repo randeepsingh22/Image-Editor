@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ImageCropDrawAndTextEditor</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!--    <string name="app_name">Edit Image</string>-->
+    <!--    <string name="no_images">no found the image</string>-->
+    <!--    <string name="images">%d images</string>-->
+    <!--    <string name="save">save</string>-->
+    <!--    <string name="apply">apply</string>-->
+
+    <!--    <string name="stickers">stickers</string>-->
+    <!--    <string name="filter">filter</string>-->
+    <!--    <string name="crop">crop</string>-->
+    <!--    <string name="rotate">rotate</string>-->
+    <!--    <string name="text">text</string>-->
+    <!--    <string name="edit">edit</string>-->
+
+
+    <!--    <string name="materialcolorpicker__app_name">Android Material Color Picker Dialog</string>-->
+    <!--    <string name="materialcolorpicker__descLib">Material Color Picker Dialog</string>-->
+    <!--    <string name="materialcolorpicker__errHex">Hex Code Format incorrect</string>-->
+    <!--    <string name="materialcolorpicker__inputColor">Color:</string>-->
+    <!--    <string name="materialcolorpicker__btnSelectColor">Select</string>-->
+    <!--    <string name="saving_image">save...</string>-->
+    <!--    <string name="input_hint">input text ...</string>-->
+
+    <!--    <string name="no_choose">please choose a image for edit</string>-->
+    <!--    <string name="auto_newline">AutoNewline</string>-->
+    <!--    <string name="save_error">Save error!</string>-->
+    <!--    <string name="handing">loading...</string>-->
+
+</resources>
